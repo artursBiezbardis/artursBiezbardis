@@ -6,9 +6,9 @@
 
 <h5>Her is some of my work in PHP:</h5>
 
-<li>
+<pre>                <li>
  <a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>
-</li>
+</li></pre>
 
 <li>
  <a href="https://github.com/artursBiezbardis/homeWork/blob/master/Basics%20to%2019.09/array/tic-tac-toe!!.php" >TIC TAC TOE is the first game I made, it's terminal-based</a>
