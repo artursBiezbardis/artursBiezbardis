@@ -1,6 +1,6 @@
 <h3 align="center">Hi, everybody!</h3>
 
-<div align="center">
+<div style="position: absolute" >
 <h4>I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person</h4>
 
 <h5>Her is some of my work in PHP:</h5>
