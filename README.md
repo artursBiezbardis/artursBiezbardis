@@ -1,32 +1,12 @@
-# profileReadme
+<h2 align="center">Hi, everybody!</2h>
 
 
-profile
-@codelex-io
- Riga, Latvia
-Organizations
-￼
- artursBiezbardis/README.md
-Send feedback 
-profileReadme
-profile
+### I'm PHP back-end developer from Latvia, father of two sons and open-minded person
 
-Customize your pins
-Popular repositories
-homeWork
-homework
+#### Her is some of my work in PHP:
 
- PHP
+-<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps">This is browser basesd game made with OOP ROCK, PAPER, SCISSORS, LIZZARD, SPOCK, NUKE</a>
 
-HomeWork2
-homework to 3.10 and so on
-
- PHP
-
-composer
-codelex-blog
-Forked from Kemito/codelex-blog
-
- PHP
-
-![](https://www.linkedin.com/in/arturs-biezbardis-6324361ba/)
+ -<a href="https://github.com/artursBiezbardis/homeWork/blob/master/Basics%20to%2019.09/array/tic-tac-toe!!.php">This is first game I made, it's terminal based TIC TAC TOE</a>
+ 
+ -<a href="https://github.com/artursBiezbardis/HomeWork2/pull/2/commits/c346e2a5f77cef08884cf9348a90838ac63994a1.php">This is terminal based simulation of shop and costumer</a>
