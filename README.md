@@ -1,7 +1,7 @@
 <h3 align="center">Hi, everybody!</h3>
 
 
-#### I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
+<h4 align="center"> I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person</h3>
 
 #### Her is some of my work in PHP:
 
@@ -16,3 +16,4 @@
 <h5 align="center" >
  Go to my <a href="https://www.linkedin.com/in/arturs-biezbardis/" target="blank"><img align="center" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="artursBiezbardis" height="50" width="50" /></a>
 </h5>
+####
