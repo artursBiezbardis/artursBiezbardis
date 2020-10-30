@@ -1,17 +1,9 @@
 <h3>Hi, everybody!</3h>
 
 
+<h4>I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person</h4>
 
-
-
-I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
-
-
-
-
-Her is some of my work in PHP:
-
-
+<h4>Her is some of my work in PHP:<h4/>
 
 -<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>
 
