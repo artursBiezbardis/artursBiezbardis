@@ -4,12 +4,12 @@
 
 
 
-*I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person*
+I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
 
 
 
 
-*Her is some of my work in PHP:*
+Her is some of my work in PHP:
 
 
 
