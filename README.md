@@ -1,11 +1,11 @@
-<h3>Hi, everybody!</3h>
+<h3 align="center">Hi, everybody!</3h>
 
 
 <h4>I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person</h4>
 
-<h4>Her is some of my work in PHP:<h4/>
+<h5>Her is some of my work in PHP:<h5/>
 
--<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>
+<p>-<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a></p>
 
 -<a href="https://github.com/artursBiezbardis/homeWork/blob/master/Basics%20to%2019.09/array/tic-tac-toe!!.php" >TIC TAC TOE is the first game I made, it's terminal-based</a>
  
