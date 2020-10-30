@@ -1,5 +1,5 @@
 # profileReadme
-![https://www.linkedin.com/in/arturs-biezbardis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/120px-Linkedin_icon.svg.png)
+
 
 profile
 @codelex-io
@@ -29,3 +29,4 @@ Forked from Kemito/codelex-blog
 
  PHP
 
+![](https://www.linkedin.com/in/arturs-biezbardis-6324361ba/)
