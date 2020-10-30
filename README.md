@@ -3,7 +3,6 @@
 <br></br>
 
 #### I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
-<br></br>
 
 #### Her is some of my work in PHP:
 
