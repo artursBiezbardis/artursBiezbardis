@@ -4,16 +4,16 @@
 
 
 
-### I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
+*I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person*
 
 
 
 
-#### Her is some of my work in PHP:
+*Her is some of my work in PHP:*
 
 
 
--<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>
+*-<a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>*
 
  -<a href="https://github.com/artursBiezbardis/homeWork/blob/master/Basics%20to%2019.09/array/tic-tac-toe!!.php" >TIC TAC TOE is the first game I made, it's terminal-based</a>
  
