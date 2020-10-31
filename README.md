@@ -2,7 +2,7 @@
 <h3 align="center">Hi, everybody!</h3>
 <br></br>
 
-#### I'm PHP back-end developer from Latvia, father of two sons, and an open-minded person
+#### I'm PHP back-end developer from Latvia, an open-minded person, and father of two sons.
 
 #### Her is some of my work in PHP:
 
