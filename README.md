@@ -6,6 +6,7 @@
 
 #### Her is some of my work in PHP:
 
+* ###### <a href="https://github.com/artursBiezbardis/NumberQuiz" >This is php web quiz app build on Laravel framework and uses http://numbersapi.com/ api generated data. App allows to configure count off questions and possible answers. Features:  MVC design pattern using services and repositories; API return validation;  </a>
 * ###### <a href="https://github.com/artursBiezbardis/scandiWeb" >This is php web app where you can save new products by product type to a database and erase chosen products. Features:  MVC design pattern; Validation; Create new Product type by adding new product type class;" </a>
 * ###### <a href="https://github.com/artursBiezbardis/HomeWork2/tree/master/rps" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP</a>
 * ###### <a href="https://github.com/artursBiezbardis/homeWork/blob/master/Basics%20to%2019.09/array/tic-tac-toe!!.php" >TIC TAC TOE is the first game I made, it's terminal-based</a>
